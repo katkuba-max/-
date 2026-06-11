@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Моя станица Павловская</title>
+<style>
+body{font-family:Arial;text-align:center;background:#eef6f0}
+h1{background:#2e7d32;color:white;padding:20px}
+.btn{display:inline-block;margin:10px;padding:15px 25px;
+background:#4caf50;color:white;text-decoration:none;border-radius:10px}
+.btn:hover{background:#2e7d32}
+</style>
+</head>
+
+<body>
+
+<h1>Моя станица Павловская</h1>
+
+<a class="btn" href="map.html">🗺 Карта</a>
+<a class="btn" href="eco.html">🌿 Тренажёр</a>
+<a class="btn" href="tour.html">🎒 Экскурсия</a>
+<a class="btn" href="quest.html">🧩 Квест</a>
+
+</body>
+</html>
